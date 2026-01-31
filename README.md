@@ -186,13 +186,3 @@ answer = re.sub(r'assistant.*', '', answer, flags=re.IGNORECASE)
 - Institution: TU Dresden
 - Competition: [Codabench Cultural QA Challenge](https://www.codabench.org/competitions/11605/)
 
-## 📧 Contact
-
-- **Subhan Ali:** subhan.ali@tu-dresden.de
-- **Khadijah Ali Shah:** khadijah_ali.shah@mailbox.tu-dresden.de
-
----
-
-**Matriculation Numbers:**
-- Subhan Ali: 5192655
-- Khadijah Ali Shah: 5195704
